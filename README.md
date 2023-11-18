@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Im currently learning C++ as my main langugage and a little bit of Java on the side.
+I really love played video games, modding them and sometimes streaming.
+Ruedy/Ruedus are my online aliases and I go by he/him.
+My favorite games are Skyrim, Minecraft and Ark Survival Ascended.
+
+
 <!--
 **Ruedus/ruedus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
